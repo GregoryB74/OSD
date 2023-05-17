@@ -14,9 +14,9 @@
             "Activation": "Volume",
             "Edition": "Enterprise",
             "Language": "en-us",
-            "Name": "Windows 11 22H2 x64",
-            "ReleaseID": "22H2",
-            "Version": "Windows 11",
+            "Name": "Windows 10 21H2 x64",
+            "ReleaseID": "21H2",
+            "Version": "Windows 10",
             "ImageIndex": "6"
         },
         "Values": {
@@ -25,15 +25,8 @@
                 "Volume"
             ],
             "Edition": [
-                "Home",
-                "Home N",
-                "Home Single Language",
-                "Education",
-                "Education N",
                 "Enterprise",
-                "Enterprise N",
-                "Pro",
-                "Pro N"
+                "Pro"
             ],
             "Language": [
                 "ar-sa",
@@ -79,23 +72,11 @@
                 "Windows 11 22H2 x64",
                 "Windows 11 21H2 x64",
                 "Windows 10 22H2 x64",
-                "Windows 10 21H2 x64",
-                "Windows 10 21H1 x64",
-                "Windows 10 20H2 x64",
-                "Windows 10 2004 x64",
-                "Windows 10 1909 x64",
-                "Windows 10 1903 x64",
-                "Windows 10 1809 x64"
+                "Windows 10 21H2 x64"
             ],
             "ReleaseID": [
                 "22H2",
-                "21H2",
-                "21H1",
-                "20H2",
-                "2004",
-                "1909",
-                "1903",
-                "1809"
+                "21H2"
             ],
             "Version": [
                 "Windows 11",
@@ -104,9 +85,9 @@
         }
 	},
 	"StartOSDCloudGUI": {
-		"BrandName": "OSDCloud",
+		"BrandName": "SELECTA",
 		"BrandColor": "#0096D6",
-        "ClearDiskConfirm": true,
+        "ClearDiskConfirm": false,
         "captureScreenshots": false,
         "restartComputer": true,
         "updateDiskDrivers": true,
